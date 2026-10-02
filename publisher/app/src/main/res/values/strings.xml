@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">屏幕推流端</string>
+    <string name="title">屏幕推流端（Publisher）</string>
+    <string name="hint_host">服务器地址（可选服务器）</string>
+    <string name="hint_host_detail">填写服务器 IP，端口固定 55564</string>
+    <string name="hint_channel">频道名（推拉流需一致）</string>
+    <string name="hint_pwd">推流密码（拉流端需输入一致）</string>
+    <string name="hint_pwd_detail">留空表示不设密码</string>
+    <string name="label_fps">帧率：%1$d fps（1-60）</string>
+    <string name="label_fps_default">帧率：15 fps（1-60）</string>
+    <string name="label_quality">JPEG 画质：%1$d（10-100）</string>
+    <string name="label_quality_default">JPEG 画质：55（10-100）</string>
+    <string name="label_res">分辨率档位</string>
+    <string name="btn_start">开始推流</string>
+    <string name="btn_stop">停止推流</string>
+    <string-array name="res_options">
+        <item>流畅 720p（推荐）</item>
+        <item>清晰 1080p</item>
+        <item>原始分辨率</item>
+    </string-array>
+</resources>

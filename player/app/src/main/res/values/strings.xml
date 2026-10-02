@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">屏幕拉流端</string>
+    <string name="title">屏幕拉流端（Player）</string>
+    <string name="hint_host">服务器地址（可选服务器）</string>
+    <string name="hint_host_detail">填写服务器 IP，端口固定 55564</string>
+    <string name="hint_channel">频道名（与推流端一致）</string>
+    <string name="hint_pwd">频道密码（与推流端一致）</string>
+    <string name="hint_pwd_detail">无密码可留空</string>
+    <string name="cd_fullscreen">放大/全屏</string>
+    <string name="btn_connect">连接拉流</string>
+    <string name="btn_disconnect">断开连接</string>
+    <string name="cd_video">远程屏幕画面</string>
+    <string name="info_placeholder">未连接</string>
+    <string name="info_format">%1$d x %2$d　%3$d fps　%4$d kbps</string>
+</resources>
